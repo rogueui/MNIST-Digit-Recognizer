@@ -33,7 +33,7 @@ After completing the requirements, following steps to be followed:
 >* Change the variable ('folder_loc') to project directory location. 
 >* Make sure model.pkl file is present in same directory.
 >* Run the programe.
->* Move the GUI window to ![TOP LEFT](https://github.com/rogueui/MNIST-Digit-Recognizer/blob/master/image/image.png) corner for prediction.
+>* Move the GUI window to TOP LEFT corner for prediction ![GUI](https://github.com/rogueui/MNIST-Digit-Recognizer/blob/master/image/image.png).
 >* The GUI has 3 functions:
 >>1. Press & Drag LEFT CLICK to draw.
 >>2. Press RIGHT CLICK to clear the screen.
