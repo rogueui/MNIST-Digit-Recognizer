@@ -2,7 +2,7 @@
 
 The [MNIST dataset](http://yann.lecun.com/exdb/mnist/) provides a training set of 60,000 handwritten digits and a validation set of 10,000 handwritten digits. The images have size 28 x 28 pixels. Therefore, when using a two-layer perceptron, we need 28 x 28 = 784 input units and 10 output units (representing the 10 different digits).
 
-**Note: It can Only Predict Digits from 0-9 Only.**
+**Note: It can Only Predict Digits from 0-9.**
 
 ## Requirements
 
